@@ -1,0 +1,7 @@
+{
+	"learning rate": 0.01,
+	"num iter": 100,
+	"num_visible": 4,
+	"num_hidden": 8,
+	"batch_size" : 5
+}
